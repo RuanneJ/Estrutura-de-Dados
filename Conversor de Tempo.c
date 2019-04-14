@@ -1,6 +1,6 @@
 /*Aluna:Ruanne Rosa Jardim Cruz
 Matrícula: 17240174
-	Turma: CIN01S1.
+Turma:CIN03S1
 	Curso: Ciência da Computação.
 	Matéria: Estrutura de Dados.
 	Professora: Erika.
