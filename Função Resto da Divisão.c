@@ -1,11 +1,7 @@
-/*
-	Aluno: Luis Henrique Moraes Pequeno.
-	Matrícula: 17045029.
-	Aluno(a):
-	Matrícula:
-	Turma: CIN01S1.
-	Curso: Ciência da Computação.
-	Matéria: Estrutura de Dados.
+/*Ruanne Rosa Jardim Cruz
+17240174, CIN03S1
+	Curso: CiÃªncia da ComputaÃ§Ã£o.
+	MatÃ©ria: Estrutura de Dados.
 	Professora: Erika.
 */
 
@@ -31,5 +27,5 @@
 		scanf("%d", &b);
 		
 		x = rest(a,b);
-		printf("O resto da divisão é: %d\n", x);	
+		printf("O resto da divisÃ£o Ã©: %d\n", x);	
 	}
