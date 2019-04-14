@@ -1,9 +1,8 @@
-/*
-	Aluno(a): Luis Henrique Moraes Pequeno.
-	Matrícula: 17045029.
+/*Aluna:Ruanne Rosa Jardim Cruz
+MatrÃ­cula: 17240174
 	Turma: CIN01S1.
-	Curso: Ciência da Computação.
-	Matéria: Estrutura de Dados.
+	Curso: CiÃªncia da ComputaÃ§Ã£o.
+	MatÃ©ria: Estrutura de Dados.
 	Professora: Erika.
 */
 #include<stdio.h>
@@ -25,6 +24,6 @@ int main(){
 		seg_2 = 0;
 	}
 	
-	printf("É Exatamente: ");
+	printf("Ã‰ Exatamente: ");
 	printf("%dH %dM %dS", hr, min, seg_2);
 }
