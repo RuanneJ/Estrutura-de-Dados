@@ -1,9 +1,7 @@
-/*
-	Aluno(a): Luis Henrique Moraes Pequeno.
-	Matrícula: 17045029.
-	Turma: CIN01S1.
-	Curso: Ciência da Computação.
-	Matéria: Estrutura de Dados.
+/*Ruanne Rosa Jardim Cruz	
+17240174, CIN03S1
+Curso: CiÃªncia da ComputaÃ§Ã£o.
+	MatÃ©ria: Estrutura de Dados.
 	Professora: Erika.
 */
 #include<stdio.h>
@@ -22,14 +20,14 @@
 		b = 2*(y);
 		z = x*y;
 		
-		printf("O dobro do primeiro valor é: %d\n\n", a);
-		printf("E o dobro do segundo valor é: %d\n\n", b);
-		printf("A multiplicação entre os dois valores é: %d\n\n", z);
+		printf("O dobro do primeiro valor Ã©: %d\n\n", a);
+		printf("E o dobro do segundo valor Ã©: %d\n\n", b);
+		printf("A multiplicaÃ§Ã£o entre os dois valores Ã©: %d\n\n", z);
 		
 		if(z > 1){
-			printf("A multiplicação entre os valores é positivo\n");
+			printf("A multiplicaÃ§Ã£o entre os valores Ã© positivo\n");
 		} else{
-			printf("A multiplicação entre os valores é negativo\n");
+			printf("A multiplicaÃ§Ã£o entre os valores Ã© negativo\n");
 		}
 		return 0;
 	}
